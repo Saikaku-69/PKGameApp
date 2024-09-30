@@ -49,3 +49,4 @@ iOSInjectionProject/
 # 跟踪AppIcon和LaunchImage
 Assets.xcassets/AppIcon.appiconset/*
 Assets.xcassets/LaunchImage.launchimage/*
+*.xcuserstate
